@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"congratssailer",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"crumble",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"loveries",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"crabs",
+		"bf",
+		"gf"
+	],
+	"storyName": "Friday Crabs Funkin",
+	"weekName": "Custom Week",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

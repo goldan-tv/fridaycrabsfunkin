@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crabsskin2.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crabs down outfit20000" x="10" y="10" width="773" height="774" frameX="-27" frameY="-145" frameWidth="817" frameHeight="919"/>
+	<SubTexture name="crabs down outfit20001" x="793" y="10" width="796" height="868" frameX="-13" frameY="-47" frameWidth="817" frameHeight="919"/>
+	<SubTexture name="crabs down outfit20002" x="793" y="10" width="796" height="868" frameX="-13" frameY="-47" frameWidth="817" frameHeight="919"/>
+	<SubTexture name="crabs down outfit20003" x="1599" y="10" width="807" height="904" frameX="-5" frameY="-11" frameWidth="817" frameHeight="919"/>
+	<SubTexture name="crabs down outfit20004" x="2416" y="10" width="815" height="915" frameX="-2" frameY="0" frameWidth="817" frameHeight="919"/>
+	<SubTexture name="crabs down outfit20005" x="3241" y="10" width="817" height="915" frameX="0" frameY="0" frameWidth="817" frameHeight="919"/>
+	<SubTexture name="crabs down outfit20006" x="3241" y="10" width="817" height="915" frameX="0" frameY="0" frameWidth="817" frameHeight="919"/>
+	<SubTexture name="crabs down outfit20007" x="3241" y="10" width="817" height="915" frameX="0" frameY="0" frameWidth="817" frameHeight="919"/>
+	<SubTexture name="crabs down outfit20008" x="3241" y="10" width="817" height="915" frameX="0" frameY="0" frameWidth="817" frameHeight="919"/>
+	<SubTexture name="crabs idle outfit20000" x="4068" y="10" width="901" height="922" frameX="-17" frameY="-58" frameWidth="918" frameHeight="981"/>
+	<SubTexture name="crabs idle outfit20001" x="4979" y="10" width="901" height="958" frameX="-8" frameY="-22" frameWidth="918" frameHeight="981"/>
+	<SubTexture name="crabs idle outfit20002" x="4979" y="10" width="901" height="958" frameX="-8" frameY="-22" frameWidth="918" frameHeight="981"/>
+	<SubTexture name="crabs idle outfit20003" x="5890" y="10" width="898" height="976" frameX="-2" frameY="-5" frameWidth="918" frameHeight="981"/>
+	<SubTexture name="crabs idle outfit20004" x="6798" y="10" width="893" height="981" frameX="-1" frameY="0" frameWidth="918" frameHeight="981"/>
+	<SubTexture name="crabs idle outfit20005" x="10" y="1001" width="889" height="981" frameX="0" frameY="0" frameWidth="918" frameHeight="981"/>
+	<SubTexture name="crabs idle outfit20006" x="10" y="1001" width="889" height="981" frameX="0" frameY="0" frameWidth="918" frameHeight="981"/>
+	<SubTexture name="crabs idle outfit20007" x="10" y="1001" width="889" height="981" frameX="0" frameY="0" frameWidth="918" frameHeight="981"/>
+	<SubTexture name="crabs idle outfit20008" x="10" y="1001" width="889" height="981" frameX="0" frameY="0" frameWidth="918" frameHeight="981"/>
+	<SubTexture name="crabs idle outfit20009" x="10" y="1001" width="889" height="981" frameX="0" frameY="0" frameWidth="918" frameHeight="981"/>
+	<SubTexture name="crabs idle outfit20010" x="10" y="1001" width="889" height="981" frameX="0" frameY="0" frameWidth="918" frameHeight="981"/>
+	<SubTexture name="crabs idle outfit20011" x="10" y="1001" width="889" height="981" frameX="0" frameY="0" frameWidth="918" frameHeight="981"/>
+	<SubTexture name="crabs idle outfit20012" x="909" y="1001" width="892" height="981" frameX="0" frameY="0" frameWidth="918" frameHeight="981"/>
+	<SubTexture name="crabs idle outfit20013" x="1811" y="1001" width="895" height="971" frameX="-3" frameY="-10" frameWidth="918" frameHeight="981"/>
+	<SubTexture name="crabs left outfit20000" x="2716" y="1001" width="754" height="939" frameX="0" frameY="-10" frameWidth="972" frameHeight="949"/>
+	<SubTexture name="crabs left outfit20001" x="3480" y="1001" width="765" height="949" frameX="-85" frameY="0" frameWidth="972" frameHeight="949"/>
+	<SubTexture name="crabs left outfit20002" x="3480" y="1001" width="765" height="949" frameX="-85" frameY="0" frameWidth="972" frameHeight="949"/>
+	<SubTexture name="crabs left outfit20003" x="4255" y="1001" width="803" height="944" frameX="-137" frameY="-5" frameWidth="972" frameHeight="949"/>
+	<SubTexture name="crabs left outfit20004" x="5068" y="1001" width="812" height="939" frameX="-154" frameY="-10" frameWidth="972" frameHeight="949"/>
+	<SubTexture name="crabs left outfit20005" x="5890" y="1001" width="814" height="937" frameX="-158" frameY="-12" frameWidth="972" frameHeight="949"/>
+	<SubTexture name="crabs left outfit20006" x="5890" y="1001" width="814" height="937" frameX="-158" frameY="-12" frameWidth="972" frameHeight="949"/>
+	<SubTexture name="crabs left outfit20007" x="5890" y="1001" width="814" height="937" frameX="-158" frameY="-12" frameWidth="972" frameHeight="949"/>
+	<SubTexture name="crabs left outfit20008" x="5890" y="1001" width="814" height="937" frameX="-158" frameY="-12" frameWidth="972" frameHeight="949"/>
+	<SubTexture name="crabs right outfit20000" x="6714" y="1001" width="983" height="978" frameX="-79" frameY="0" frameWidth="1062" frameHeight="978"/>
+	<SubTexture name="crabs right outfit20001" x="10" y="1992" width="914" height="978" frameX="-79" frameY="0" frameWidth="1062" frameHeight="978"/>
+	<SubTexture name="crabs right outfit20002" x="10" y="1992" width="914" height="978" frameX="-79" frameY="0" frameWidth="1062" frameHeight="978"/>
+	<SubTexture name="crabs right outfit20003" x="934" y="1992" width="902" height="978" frameX="-30" frameY="0" frameWidth="1062" frameHeight="978"/>
+	<SubTexture name="crabs right outfit20004" x="1846" y="1992" width="912" height="978" frameX="-4" frameY="0" frameWidth="1062" frameHeight="978"/>
+	<SubTexture name="crabs right outfit20005" x="2768" y="1992" width="910" height="978" frameX="0" frameY="0" frameWidth="1062" frameHeight="978"/>
+	<SubTexture name="crabs right outfit20006" x="2768" y="1992" width="910" height="978" frameX="0" frameY="0" frameWidth="1062" frameHeight="978"/>
+	<SubTexture name="crabs right outfit20007" x="2768" y="1992" width="910" height="978" frameX="0" frameY="0" frameWidth="1062" frameHeight="978"/>
+	<SubTexture name="crabs right outfit20008" x="2768" y="1992" width="910" height="978" frameX="0" frameY="0" frameWidth="1062" frameHeight="978"/>
+	<SubTexture name="crabs up outfit20000" x="3688" y="1992" width="818" height="1186" frameX="-13" frameY="0" frameWidth="841" frameHeight="1186"/>
+	<SubTexture name="crabs up outfit20001" x="4516" y="1992" width="821" height="1091" frameX="-15" frameY="-93" frameWidth="841" frameHeight="1186"/>
+	<SubTexture name="crabs up outfit20002" x="4516" y="1992" width="821" height="1091" frameX="-15" frameY="-93" frameWidth="841" frameHeight="1186"/>
+	<SubTexture name="crabs up outfit20003" x="5347" y="1992" width="835" height="1037" frameX="0" frameY="-145" frameWidth="841" frameHeight="1186"/>
+	<SubTexture name="crabs up outfit20004" x="6192" y="1992" width="834" height="1033" frameX="-3" frameY="-149" frameWidth="841" frameHeight="1186"/>
+	<SubTexture name="crabs up outfit20005" x="7036" y="1992" width="838" height="1035" frameX="-3" frameY="-147" frameWidth="841" frameHeight="1186"/>
+	<SubTexture name="crabs up outfit20006" x="7036" y="1992" width="838" height="1035" frameX="-3" frameY="-147" frameWidth="841" frameHeight="1186"/>
+	<SubTexture name="crabs up outfit20007" x="7036" y="1992" width="838" height="1035" frameX="-3" frameY="-147" frameWidth="841" frameHeight="1186"/>
+	<SubTexture name="crabs up outfit20008" x="7036" y="1992" width="838" height="1035" frameX="-3" frameY="-147" frameWidth="841" frameHeight="1186"/>
+</TextureAtlas>

@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "crabs idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [174, -33],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "crabs left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-71, -67],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "crabs down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [51, 196],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "crabs up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-105, 0],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "crabs right",
+			"indices": []
+		},
+		{
+			"offsets": [174, -33],
+			"indices": [1],
+			"fps": 24,
+			"anim": "singLEFT-hold",
+			"loop": false,
+			"name": "crabs left outfit3"
+		},
+		{
+			"offsets": [-71, -67],
+			"indices": [1],
+			"fps": 24,
+			"anim": "singDOWN-hold",
+			"loop": false,
+			"name": "crabs down outfit3"
+		},
+		{
+			"offsets": [-105, 0],
+			"indices": [1],
+			"fps": 24,
+			"anim": "singRIGHT-hold",
+			"loop": false,
+			"name": "crabs right outfit3"
+		},
+		{
+			"offsets": [51, 196],
+			"indices": [1],
+			"fps": 24,
+			"anim": "singUP-hold",
+			"loop": false,
+			"name": "crabs up outfit3"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/crabs/skin3/crabsskin3",
+	"position": [-269, -213],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [-100, 110],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

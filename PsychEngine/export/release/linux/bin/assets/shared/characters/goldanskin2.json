@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "goldan idle"
+		},
+		{
+			"offsets": [
+				309,
+				-131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "goldan left"
+		},
+		{
+			"offsets": [
+				-52,
+				-224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "goldan down"
+		},
+		{
+			"offsets": [
+				145,
+				208
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "goldan up"
+		},
+		{
+			"offsets": [
+				-57,
+				-78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "goldan right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goldan/skin2/goldanskin2",
+	"position": [
+		-70,
+		-10
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-190,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
+

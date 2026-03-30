@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "crabs idle"
+		},
+		{
+			"offsets": [
+				174,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "crabs left"
+		},
+		{
+			"offsets": [
+				-71,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "crabs down"
+		},
+		{
+			"offsets": [
+				51,
+				196
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "crabs up"
+		},
+		{
+			"offsets": [
+				-105,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "crabs right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crabs/skin2/crabsskin2",
+	"position": [
+		-270,
+		-188
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-100,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
