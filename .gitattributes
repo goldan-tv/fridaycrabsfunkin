@@ -21,3 +21,4 @@
 *.o filter=lfs diff=lfs merge=lfs -text
 /PsychEngine/export/release/linux/obj/obj/linux64/all_objs filter=lfs diff=lfs merge=lfs -text
 *.cpp filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
