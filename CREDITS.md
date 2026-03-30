@@ -1,0 +1,2 @@
+- ranfring (for the sprites ->)
+- louzakom (for general assistance on navigating the FNF modbase & camera effects) [++++]
